@@ -1,0 +1,21 @@
+# Python / Colab artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.h5
+*.zip
+dataset/
+/content/
+
+# Arduino / PlatformIO / ESP-IDF build artifacts
+.pio/
+.vscode/
+build/
+*.bin
+*.elf
+*.hex
+
+# OS & Environment
+.DS_Store
+Thumbs.db
+secrets.h
